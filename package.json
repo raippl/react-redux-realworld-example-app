@@ -1,0 +1,35 @@
+{
+  "name": "react-redux-realworld-example-app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.6.1"
+  },
+  "dependencies": {
+    "amdefine": "^1.0.0",
+    "ansi-regex": "^2.0.0",
+    "ansi-styles": "^2.2.1",
+    "babel-code-frame": "^6.11.0",
+    "babel-core": "^6.14.0",
+    "history": "^4.3.0",
+    "marked": "^0.3.6",
+    "nan": "^2.4.0",
+    "object-assign": "^4.1.0",
+    "pinkie-promise": "^2.0.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.8.1",
+    "react-router-dom": "^4.1.1",
+    "redux": "^3.6.0",
+    "regexpu-core": "^2.0.0",
+    "superagent": "^2.3.0",
+    "superagent-promise": "^1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
